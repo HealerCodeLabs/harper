@@ -64052,9 +64052,9 @@ var Ij = [
   };
 ic.registerPlugin(Tj);
 var zj = [
-  { label: `Novice`, filled: 1, legendClass: Fj.legendNovice },
-  { label: `Basic`, filled: 2, legendClass: Fj.legendBasic },
-  { label: `Competent`, filled: 3, legendClass: Fj.legendCompetent },
+  { label: `Novice`, filled: 4, legendClass: Fj.legendNovice },
+  { label: `Basic`, filled: 5, legendClass: Fj.legendBasic },
+  { label: `Competent`, filled: 5, legendClass: Fj.legendCompetent },
   { label: `Advanced`, filled: 4, legendClass: Fj.legendAdvanced },
   { label: `Mastery`, filled: 5, legendClass: Fj.legendMastery },
 ],
@@ -64068,10 +64068,10 @@ var zj = [
       skills: [
         { name: `Python`, level: 5, Icon: xc },
         { name: `FastAPI`, level: 5, Icon: kc },
-        { name: `Django`, level: 5, Icon: Cc },
+        { name: `Django`, level: 4, Icon: Cc },
         { name: `Node.js`, level: 5, Icon: jc },
         { name: `REST APIs`, level: 5, Icon: Pc },
-        { name: `Microservices`, level: 5, Icon: gc },
+        { name: `Microservices`, level: 4, Icon: gc },
       ],
     },
     {
@@ -64084,8 +64084,8 @@ var zj = [
         { name: `AWS`, level: 5, Icon: Fc },
         { name: `Azure`, level: 5, Icon: kc },
         { name: `Google Cloud`, level: 5, Icon: Lc },
-        { name: `Docker`, level: 5, Icon: Pc },
-        { name: `Kubernetes`, level: 5, Icon: Cc },
+        { name: `Docker`, level: 4, Icon: Pc },
+        { name: `Kubernetes`, level: 4, Icon: Cc },
         { name: `CI/CD`, level: 5, Icon: gc },
       ],
     },
@@ -64101,7 +64101,7 @@ var zj = [
         { name: `Redis`, level: 5, Icon: Pc },
         { name: `Database Design`, level: 5, Icon: Cc },
         { name: `Data Modeling`, level: 5, Icon: gc },
-        { name: `Query Optimization`, level: 5, Icon: Sc },
+        { name: `Query Optimization`, level: 4, Icon: Sc },
       ],
     },
     {
@@ -64111,12 +64111,12 @@ var zj = [
       Icon: bc,
       summary: `AI and LLM integration—OpenAI API, RAG systems, LangChain, vector databases, and AI agents for production workflows.`,
       skills: [
-        { name: `OpenAI API`, level: 5, Icon: Pc },
-        { name: `LLM Integration`, level: 5, Icon: gc },
-        { name: `RAG Systems`, level: 5, Icon: kc },
-        { name: `LangChain`, level: 5, Icon: Cc },
-        { name: `Vector Databases`, level: 5, Icon: xc },
-        { name: `AI Agents`, level: 5, Icon: Oc },
+        { name: `OpenAI API`, level: 4, Icon: Pc },
+        { name: `LLM Integration`, level: 4, Icon: gc },
+        { name: `RAG Systems`, level: 4, Icon: kc },
+        { name: `LangChain`, level: 4, Icon: Cc },
+        { name: `Vector Databases`, level: 3, Icon: xc },
+        { name: `AI Agents`, level: 3, Icon: Oc },
       ],
     },
     {
@@ -64129,7 +64129,7 @@ var zj = [
         { name: `Distributed Systems`, level: 5, Icon: Bc },
         { name: `System Design`, level: 5, Icon: Cc },
         { name: `API Architecture`, level: 5, Icon: Pc },
-        { name: `Event-Driven Systems`, level: 5, Icon: kc },
+        { name: `Event-Driven Systems`, level: 4, Icon: kc },
         { name: `Scalability`, level: 5, Icon: Lc },
         { name: `Performance Optimization`, level: 5, Icon: Sc },
       ],
