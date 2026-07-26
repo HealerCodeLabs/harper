@@ -11563,7 +11563,7 @@ var Wn = o((e) => {
               r && (0, W.jsx)(`div`, { className: `ring final-ring` }),
               (0, W.jsx)(`img`, {
                 src: `/images/MYPIC.jpg`,
-                alt: `Harper Logo`,
+                alt: `Healer Logo`,
                 className: `loader-logo`,
                 style: { borderRadius: `50%` },
               }),
@@ -60845,9 +60845,9 @@ var XD = (e, t) => {
   },
   $D = `badrmoonlight2@gmail.com`,
   eO = `https://wa.me/14642816015`,
-  tO = `https://t.me/harper0419`,
-  rO = `https://github.com/newstable`,
-  iO = [`AI & Full Stack Engineer`, `Reverse Engineer`],
+  tO = `https://t.me/Healer041911`,
+  rO = `https://github.com/HealerCodeLabs`,
+  iO = [`Senior Software Engineer`, `Reverse Engineer`],
   aO = 700,
   oO = 2500,
   sO = () => {
@@ -60911,7 +60911,7 @@ var XD = (e, t) => {
                   args: [`#050a14`],
                 }),
                 (0, W.jsx)(`ambientLight`, { intensity: 0.5 }),
-                (0, W.jsx)(QD, { isExpanded: !e, text: `HARPER` }),
+                (0, W.jsx)(QD, { isExpanded: !e, text: `Healer` }),
                 (0, W.jsx)(OD, {
                   children: (0, W.jsx)(jD, {
                     luminanceThreshold: 0.2,
@@ -63936,7 +63936,7 @@ var Ij = [
                       children: [
                         (0, W.jsx)(`img`, {
                           src: `/images/MYPIC.png`,
-                          alt: `Harper Engineer`,
+                          alt: `Healer Engineer`,
                         }),
                         (0, W.jsx)(`div`, {
                           className: Fj.imageCaption,
@@ -64419,7 +64419,7 @@ var Uj = () => {
       tools: `Python, Selenium/Automation`,
       skillsDesc: ``,
       image: `/images/tinder-bot.webp`,
-      link: `https://github.com/newstable/tinder-bot`,
+      link: `https://github.com/HealerCodeLabs/tinder-bot`,
       visitShort: `Tinder Bot`,
     },
     {
@@ -64451,7 +64451,7 @@ var Uj = () => {
       tools: `Python, Instagram API/Automation, Scheduling`,
       skillsDesc: ``,
       image: `/images/Instagram-Automation.png`,
-      link: `https://github.com/newstable/Instagram-Automation`,
+      link: `https://github.com/HealerCodeLabs/Instagram-Automation`,
       visitShort: `Instagram Bot`,
     },
     {
@@ -64461,7 +64461,7 @@ var Uj = () => {
       tools: `React, TypeScript, Tailwind, REST API`,
       skillsDesc: ``,
       image: `/images/dating-app-client.jpg`,
-      link: `https://github.com/newstable/dating-app-client`,
+      link: `https://github.com/HealerCodeLabs/dating-app-client`,
       visitShort: `Dating Client`,
     },
     {
@@ -64471,7 +64471,7 @@ var Uj = () => {
       tools: `Node.js, React, MongoDB, REST API, WebSockets`,
       skillsDesc: ``,
       image: `/images/Dating-App.jpg`,
-      link: `https://github.com/newstable/Dating-App`,
+      link: `https://github.com/HealerCodeLabs/Dating-App`,
       visitShort: `Dating App`,
     },
     {
@@ -64492,7 +64492,7 @@ var Uj = () => {
       tools: `React, Vite, Tailwind CSS, JavaScript, UI Animation`,
       skillsDesc: ``,
       image: `/images/brainwave.png`,
-      link: `https://github.com/newstable/brainwave`,
+      link: `https://github.com/HealerCodeLabs/brainwave`,
       visitShort: `Brainwave`,
     },
     {
@@ -64502,7 +64502,7 @@ var Uj = () => {
       tools: `JavaScript, Node.js, AI APIs, Automation`,
       skillsDesc: ``,
       image: `/images/Dominate-AI.png`,
-      link: `https://github.com/newstable/Dominate-AI`,
+      link: `https://github.com/HealerCodeLabs/Dominate-AI`,
       visitShort: `Dominate AI`,
     },
     {
@@ -64523,7 +64523,7 @@ var Uj = () => {
       tools: `Python, OpenCV, Dlib,TensorFlow, OCR`,
       skillsDesc: `Combines classic CV (OpenCV/Dlib/face_recognition) with ML pipelines for emotion/gender recognition and supporting utilities for face swapping and restoration.`,
       image: `/images/face-swap.png`,
-      link: `https://github.com/newstable/face-swap-ai`,
+      link: `https://github.com/HealerCodeLabs/face-swap-ai`,
       visitShort: `Face Swap`,
     },
     {
@@ -64533,7 +64533,7 @@ var Uj = () => {
       tools: `JavaScript, Chrome Extension API, DOM Automation`,
       skillsDesc: ``,
       image: `/images/match-extension.png`,
-      link: `https://github.com/newstable/match-extension`,
+      link: `https://github.com/HealerCodeLabs/match-extension`,
       visitShort: `Match Extension`,
     },
     {
@@ -64543,7 +64543,7 @@ var Uj = () => {
       tools: `MongoDB, Express, React, Node.js, Cloudinary, JWT Config, REST API`,
       skillsDesc: `README documents backend/frontend .env patterns (Mongo URI, token secret, frontend URL, Cloudinary) and media workflow for a full-stack commerce build.`,
       image: `/images/E-commerce-MERN.png`,
-      link: `https://github.com/newstable/Full-Stack-E-Commerce-MERN-APP`,
+      link: `https://github.com/HealerCodeLabs/Full-Stack-E-Commerce-MERN-APP`,
       visitShort: `MERN E-Commerce`,
     },
     {
@@ -64553,7 +64553,7 @@ var Uj = () => {
       tools: `React, Redux, Node.js, Express, MongoDB`,
       skillsDesc: `Covers filters, search, pagination, ratings/reviews, and end-to-end cart/checkout; README also references a deployed Heroku demo alongside the repo.`,
       image: `/images/Full-Ecommerce.png`,
-      link: `https://github.com/newstable/Full-Ecommerce-Site`,
+      link: `https://github.com/HealerCodeLabs/Full-Ecommerce-Site`,
       visitShort: `ShopX MERN`,
     },
     {
@@ -64585,7 +64585,7 @@ var Uj = () => {
       tools: `Python, Automation, Proxies, Batch Jobs`,
       skillsDesc: ``,
       image: `/images/Bulk-Tinder-Creator.png`,
-      link: `https://github.com/newstable/Bulk-Tinder-Creator`,
+      link: `https://github.com/HealerCodeLabs/Bulk-Tinder-Creator`,
       visitShort: `Bulk Creator`,
     },
     {
@@ -64606,7 +64606,7 @@ var Uj = () => {
       tools: `Python, Browser Automation, Proxies`,
       skillsDesc: ``,
       image: `/images/twitter-account-creation-bot.png`,
-      link: `https://github.com/newstable/twitter-account-creation-bot`,
+      link: `https://github.com/HealerCodeLabs/twitter-account-creation-bot`,
       visitShort: `Twitter Bot`,
     },
     {
@@ -64616,7 +64616,7 @@ var Uj = () => {
       tools: `FastAPI, Next.js, TypeScript, Tailwind, MongoDB, Socket.io/SSE, Redis`,
       skillsDesc: `README outlines a Python + Next.js stack with Axios clients, session/token handling, and optional Redis for queues—focused on scalable API-driven control panels.`,
       image: `/images/okcupid.png`,
-      link: `https://github.com/newstable/okcupid-swiping-manager`,
+      link: `https://github.com/HealerCodeLabs/okcupid-swiping-manager`,
       visitShort: `Swiping Manager`,
     },
   ];
@@ -64978,7 +64978,7 @@ var hM = {
                   children: [
                     (0, W.jsxs)(`p`, {
                       className: `text-gray-500 text-sm`,
-                      children: `© 2026  HARPER`,
+                      children: `© 2026  Healer`,
                     }),
                     (0, W.jsx)(`p`, {
                       className: `text-gray-600 text-sm hidden md:block`,
