@@ -63890,12 +63890,12 @@ var Fj = {
 };
 ic.registerPlugin(Tj);
 var Ij = [
-  `Senior Software Engineer with 7+ years of experience designing, developing, and maintaining scalable backend systems, cloud-native applications, APIs, and microservices.`,
-  `Strong expertise in Python, TypeScript, Node.js, React, PostgreSQL, AWS, Docker, and Kubernetes, with a focus on system design, distributed architectures, performance optimization, and reliable production software.`,
+  `I am a Senior Backend Software Engineer who builds scalable systems, production services, and cloud applications for startups and growing technology companies.`,
+  `Strong expertise in Python, TypeScript, Node.js, PostgreSQL, AWS, Docker, and Kubernetes, with a focus on backend architecture, distributed systems, and reliable production software.`,
   `Experienced in building high-quality software solutions, improving engineering processes, and delivering scalable platforms that support business growth.`,
   `Skilled in backend development, cloud infrastructure, CI/CD, database design, and solving complex engineering challenges in fast-paced environments.`,
 ],
-  Lj = `Backed by a small team and a network of specialized developers and researchers, allowing us to handle multiple projects, scale to larger engagements, and collaborate with everyone from early-stage startups to established businesses.`,
+  Lj = `Building scalable backend systems, cloud applications, and production software solutions for startups and growing technology companies.`,
   Rj = () => {
     let e = (0, x.useRef)(null);
     return (
@@ -64008,11 +64008,11 @@ var Ij = [
                         children: [
                           (0, W.jsx)(`h3`, {
                             className: `text-3xl font-bold text-white`,
-                            children: `40+`,
+                            children: `30+`,
                           }),
                           (0, W.jsx)(`p`, {
                             className: `text-sm text-gray-500 uppercase tracking-wider`,
-                            children: `Projects`,
+                            children: `Projects Completed`,
                           }),
                         ],
                       }),
@@ -64020,11 +64020,11 @@ var Ij = [
                         children: [
                           (0, W.jsx)(`h3`, {
                             className: `text-3xl font-bold text-white`,
-                            children: `AI / Web`,
+                            children: `Backend & Cloud`,
                           }),
                           (0, W.jsx)(`p`, {
                             className: `text-sm text-gray-500 uppercase tracking-wider`,
-                            children: `Focus`,
+                            children: `Engineering`,
                           }),
                         ],
                       }),
@@ -64032,11 +64032,11 @@ var Ij = [
                         children: [
                           (0, W.jsx)(`h3`, {
                             className: `text-3xl font-bold text-white`,
-                            children: `Whop`,
+                            children: `Scalable`,
                           }),
                           (0, W.jsx)(`p`, {
                             className: `text-sm text-gray-500 uppercase tracking-wider`,
-                            children: `Monetization`,
+                            children: `Systems`,
                           }),
                         ],
                       }),
