@@ -63890,9 +63890,10 @@ var Fj = {
 };
 ic.registerPlugin(Tj);
 var Ij = [
-  `Senior AI & Full-Stack Engineer with 7+ years of experience building scalable, secure, and high-performance web applications and AI-powered systems. Skilled in React, Vue.js, Node.js/NestJS, GraphQL, PHP (Laravel), and Python, with strong expertise in backend architecture, RESTful APIs, databases, and cloud platforms.`,
-  `Experienced in developing LLM applications, RAG systems, AI agents, and intelligent automation solutions. Proficient in PostgreSQL, MongoDB, AWS, and GCP, with experience implementing authentication (JWT, OAuth) , payment integrations (Stripe, Paypal) , performance optimization, and reliable production systems.`,
-  `Passionate about designing clean, maintainable solutions and delivering high-quality products through strong problem-solving skills and effective collaboration with cross-functional teams.`,
+  `Senior Software Engineer with 8+ years of experience designing, developing, and maintaining scalable backend systems, cloud-native applications, APIs, and microservices.`,
+  `Strong expertise in Python, TypeScript, Node.js, React, PostgreSQL, AWS, Docker, and Kubernetes, with a focus on system design, distributed architectures, performance optimization, and reliable production software.`,
+  `Experienced in building high-quality software solutions, improving engineering processes, and delivering scalable platforms that support business growth.`,
+  `Skilled in backend development, cloud infrastructure, CI/CD, database design, and solving complex engineering challenges in fast-paced environments.`,
 ],
   Lj = `Backed by a small team and a network of specialized developers and researchers, allowing us to handle multiple projects, scale to larger engagements, and collaborate with everyone from early-stage startups to established businesses.`,
   Rj = () => {
@@ -63946,7 +63947,7 @@ var Ij = [
                               (0, W.jsx)(Fc, { size: 16 }),
                               (0, W.jsx)(`span`, {
                                 className: `text-xs font-mono uppercase tracking-widest`,
-                                children: `AI Full Stack Engineer`,
+                                children: `Senior Software Engineer`,
                               }),
                             ],
                           }),
@@ -63961,7 +63962,7 @@ var Ij = [
                         className: Fj.positionEyebrow,
                         children: [
                           (0, W.jsx)(gc, { size: 14, "aria-hidden": !0 }),
-                          `AI Full Stack, Bot & Reverse Engineer`,
+                          `Backend Engineering • Cloud Architecture • Distributed Systems`,
                         ],
                       }),
                       (0, W.jsx)(`div`, {
